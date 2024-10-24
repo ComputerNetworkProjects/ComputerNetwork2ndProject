@@ -1,3 +1,5 @@
+# 실제 실행 파일
+
 import time
 import urllib.parse
 import hashlib
