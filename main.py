@@ -1,4 +1,4 @@
-# 실제 실행 파일
+# 실제 실행 파일, 본 파일 기준으로 실행
 
 import time
 import urllib.parse
